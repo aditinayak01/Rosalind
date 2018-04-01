@@ -19,4 +19,3 @@ for i in (newlist):
         T_counter+=1
 
 print(A_counter, C_counter, G_counter,T_counter)
-
